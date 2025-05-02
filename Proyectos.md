@@ -10,3 +10,7 @@ Terminal funcional
 ## Derivados:Python
 #Mercado de Derivados  de divisas
 Forwads y Options de  USD-MXN  calculados 
+#Tendecias Musicales:Python
+#Procesamiento de datos
+Análissi de datos sobre una base de datos  de spotify
+
