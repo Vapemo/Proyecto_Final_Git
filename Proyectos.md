@@ -7,3 +7,6 @@ Clon de Google
 ## Terminal Simulada en Linux
 #Terminal funcional (Bash)
 Terminal funcional
+## Derivados:Python
+#Mercado de Derivados  de divisas
+Forwads y Options de  USD-MXN  calculados 
