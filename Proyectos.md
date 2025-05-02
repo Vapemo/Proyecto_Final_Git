@@ -29,7 +29,7 @@
 
 ---
 
-##  Proyecto 1: Página Web Personal
+##   Página Web
 
 - Clon de una página web usando **HTML y CSS**
-- Ejemplo: **Clon de Google**
+-  **Clon personalizado  de Google**
