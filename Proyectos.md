@@ -13,4 +13,5 @@ Forwads y Options de  USD-MXN  calculados
 #Tendecias Musicales:Python
 #Procesamiento de datos
 Análissi de datos sobre una base de datos  de spotify
-
+##Taquillera de cine
+Programa de una taquilla de cine en python
