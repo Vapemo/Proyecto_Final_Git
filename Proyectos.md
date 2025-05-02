@@ -1,17 +1,35 @@
-# Mis Proyectos
+#  Mis Proyectos
 
-## Proyecto 1: Página Web Personal
-# Clon Página Web: HTML, CSS**
-Clon de Google
+##  Derivados Financieros (Python)
 
-## Terminal Simulada en Linux
-#Terminal funcional (Bash)
-Terminal funcional
-## Derivados:Python
-#Mercado de Derivados  de divisas
-Forwads y Options de  USD-MXN  calculados 
-#Tendecias Musicales:Python
-#Procesamiento de datos
-Análissi de datos sobre una base de datos  de spotify
-##Taquillera de cine
-Programa de una taquilla de cine en python
+- Análisis del **mercado de derivados de divisas**
+- Cálculo de **Forwards** y **Opciones** sobre USD/MXN
+- Implementado en **Python**
+
+---
+
+##  Terminal Simulada en Linux
+
+- Terminal funcional desarrollada en **Bash**
+- Simulación de comandos y estructura de un sistema Linux
+
+---
+
+##  Tendencias Musicales (Python)
+
+- Procesamiento y análisis de datos de **Spotify**
+- Limpieza, visualización y exploración de tendencias musicales
+
+---
+
+## Taquilla de Cine (Python)
+
+- Simulación de una taquilla digital
+- Programa desarrollado en **Python** con menús y control de entradas
+
+---
+
+##  Proyecto 1: Página Web Personal
+
+- Clon de una página web usando **HTML y CSS**
+- Ejemplo: **Clon de Google**
