@@ -1,4 +1,4 @@
-#  Mis Proyectos
+## 💻   Mis Proyectos
 
 ##  Derivados Financieros (Python)
 
@@ -29,7 +29,7 @@
 
 ---
 
-##   Página Web
+##  Página Web
 
 - Clon de una página web usando **HTML y CSS**
 -  **Clon personalizado  de Google**
