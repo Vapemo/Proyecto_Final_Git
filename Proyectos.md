@@ -73,11 +73,8 @@
 - Simulación por consola
 ---
 
-<<<<<<< HEAD
+
 ##  Página Web
-=======
-##   Página Web
->>>>>>> clasificacion
 
 | Tema             | Descripción                                                   |
 |------------------|---------------------------------------------------------------|
