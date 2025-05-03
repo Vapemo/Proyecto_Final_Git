@@ -1,4 +1,4 @@
-#  Lista animes por ver  2025
+# 📺 Clasificación animes por ver  2025
 
 | Anime                          | Género             | Estado              |
 |-------------------------------|--------------------|---------------------|
