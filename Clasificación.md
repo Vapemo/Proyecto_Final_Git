@@ -2,6 +2,6 @@
 
 | Anime                          | Género             | Estado              |
 |-------------------------------|--------------------|---------------------|
-| Jujutsu Kaisen T3             | Acción, Sobrenatural|Terminado
-| Psycho-Pass: Providence       | Thriller, Sci-fi    | Pendiente           |
-
+| Jujutsu Kaisen T3             | Acción             |Terminado
+| Psycho-Pass: Providence       | Thriller           | Pendiente          |
+| Toradora!                     | Romance            |Pendiente           | 
