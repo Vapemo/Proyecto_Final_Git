@@ -6,4 +6,4 @@
 | Psycho-Pass: Providence       | Thriller           | Pendiente          |
 | Toradora!                     | Romance            |Pendiente           | 
 | Death Parade                  | Psicológico        | Pendiente          |
-
+| Fullmetal Alchemist: Brotherhood | Acción          | Viendo             |
